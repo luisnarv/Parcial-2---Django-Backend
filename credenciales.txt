@@ -1,7 +1,3 @@
-==============================================================
-PARCIAL 2 - DESARROLLO DE APLICACIONES WEB I (DJANGO BACKEND)
-==============================================================
-
 CREDENCIALES:
 URL: http://127.0.0.1:8000/admin/
 Usuario: admin
@@ -9,4 +5,4 @@ Contraseña: admin123
 
 REPOSITORIO EN GITHUB:
 URL: https://github.com/luisnarv/Parcial-2---Django-Backend.git
-==============================================================
+
