@@ -1,33 +1,12 @@
 ==============================================================
 PARCIAL 2 - DESARROLLO DE APLICACIONES WEB I (DJANGO BACKEND)
-Estudiante: Luis M.
-Docente: Jose Javier Torres Vanstrahlen
-Curso: Desarrollo de aplicaciones Web I -- 4E
 ==============================================================
 
-1. CREDENCIALES DEL PANEL DE ADMINISTRACIÓN DE DJANGO:
---------------------------------------------------------------
-URL del Panel Admin: http://127.0.0.1:8000/admin/
-Usuario (Username) : admin
-Contraseña (Password): admin123
-Correo electrónico : admin@example.com
+CREDENCIALES:
+URL: http://127.0.0.1:8000/admin/
+Usuario: admin
+Contraseña: admin123
 
-2. ENLACE DEL REPOSITORIO PÚBLICO EN GITHUB:
---------------------------------------------------------------
-URL Repositorio: https://github.com/luisnarv/django-backend-gestion
-
-3. DETALLE DE REGISTROS ALMACENADOS EN db.sqlite3:
---------------------------------------------------------------
-Proyectos creados (3):
-- ID 1: Sistema de Facturacion Web (Inicio: 2026-01-15)
-- ID 2: App Movil de Inventarios (Inicio: 2026-02-01)
-- ID 3: Portal de Gestion Educativa (Inicio: 2026-03-10)
-
-Tareas creadas (6 en total, 2 por cada proyecto):
-- Tarea 1: Disenar esquema de base de datos relacional (Proyecto: Sistema de Facturacion Web) [Completada: Sí]
-- Tarea 2: Implementar pasarela de pagos en linea (Proyecto: Sistema de Facturacion Web) [Completada: No]
-- Tarea 3: Crear interfaces de usuario en React Native (Proyecto: App Movil de Inventarios) [Completada: Sí]
-- Tarea 4: Integrar API REST de sincronizacion de stock (Proyecto: App Movil de Inventarios) [Completada: No]
-- Tarea 5: Configurar autenticacion con roles de usuario (Proyecto: Portal de Gestion Educativa) [Completada: Sí]
-- Tarea 6: Generar reportes academicos en formato PDF (Proyecto: Portal de Gestion Educativa) [Completada: No]
+REPOSITORIO EN GITHUB:
+URL: https://github.com/luisnarv/Parcial-2---Django-Backend.git
 ==============================================================
